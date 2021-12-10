@@ -1,2 +1,2 @@
-# Chrome-Extension
-It's a simple chrome-extension which shows  different jokes when you refresh it.
+# Dad-Jokes-Chrome-Extension
+You click on this google chrome extension to get a random Joke every time 😂
